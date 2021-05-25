@@ -1,0 +1,7 @@
+{
+  "name": "com.unity.yukisky.firebaserepo",
+  "displayName": "FirebaseRepo",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "## firebase Android \u4ed3\u5e93\n\n\u653e\u5728\u8fd9\u91cc\u4e3b\u8981\u662f\u4e3a\u4e86\u9632\u6b62\u81ea\u52a8\u6dfb\u52a0\u76f8\u5bf9\u8def\u5f84\u7684\u4ed3\u5e93,\u5bfc\u81f4 windows \u548c osx\u7684\u8def\u5f84\u4e0d\u4e00\u81f4\u7684\u95ee\u9898\n\n\u66f4\u65b0:\n    \u76f4\u63a5\u5c06\u6240\u6709\u7684 firebase-*-**unity**-version.aar\u590d\u5236\u8fc7\u6765\u5c31\u53ef\u4ee5"
+}

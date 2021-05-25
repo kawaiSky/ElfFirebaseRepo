@@ -1,0 +1,10 @@
+{
+    "name": "Yukisky.Firebaserepo.Editor",
+    "references": [
+      "Yukisky.Firebaserepo"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
